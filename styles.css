@@ -2,10 +2,10 @@
 /* Your CSS Code here. */
 .container-fluid{
 	width:1000px;
-	display:flex;
-	
+	display:flex;	
 	flex-wrap: wrap;
-	
+	flex-flow:stretch;
+	justify-items: auto;
 }
 img{
 	
